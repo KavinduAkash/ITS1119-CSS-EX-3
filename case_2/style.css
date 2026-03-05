@@ -10,3 +10,10 @@ header > nav > a {
     text-decoration: none;
     margin: 0px 10px;
 }
+
+footer {
+    background-color: gray;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
